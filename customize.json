@@ -2,7 +2,7 @@
   "greeting": "Hiya",
   "name": "Sunsiqi",
   "greetingText": "I really like your name btw!",
-  "wishText": "May the js.prototypes always be with you! ;)",
+  "wishText": "愿真理与你同在 ;)",
   "imagePath": "img/avatar.jpg",
   "text1": "今天是你的生日!!! :)",
   "textInChatBox": "生日快乐🎂 Yeee! 每天过得开心...",
@@ -17,7 +17,7 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "生日快乐!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "点击屏幕，会重播动画",
-  "outroSmiley": ":D"
+  "outroText": "如果觉得不错的话可以告诉我（虽然这并不能算是我做的",
+  "replayText": "点击这里，会重播动画",
+  "outroSmiley": ":)"
 }
