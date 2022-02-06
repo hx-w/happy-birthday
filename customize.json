@@ -9,7 +9,7 @@
   "sendButtonLabel": "发送",
   "text2": "这是我准备想做的事。",
   "text3": "虽然我做过了，",
-  "text4": "但我意识到，我想做的不只是这些。",
+  "text4": "但我意识到，我还想做一些",
   "text4Adjective": "special",
   "text5Entry": "Because,",
   "text5Content": "You are Special",
@@ -18,6 +18,6 @@
   "bigTextPart2": "以",
   "wishHeading": "生日快乐!",
   "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "replayText": "点击屏幕，会重播动画",
   "outroSmiley": ":D"
 }
